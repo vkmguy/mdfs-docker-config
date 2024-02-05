@@ -1,4 +1,4 @@
-# Stock Market Backed Docker Compose setup
+# Stock Market Backend Docker Compose setup
 
 ## Prerequisites
 
